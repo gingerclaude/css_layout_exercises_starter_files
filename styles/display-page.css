@@ -1,0 +1,50 @@
+
+main {
+	font-size: 0;
+	width: 800px;
+	margin: auto;
+	border-style: solid;
+	border-width: 1px;
+	overflow: hidden;
+}
+
+.magic {
+	width: 101%
+}
+
+.row1 {
+	width: 50%;
+	height: 200px;
+  	display: inline-block;
+  	border-bottom: 1px solid black;
+
+}
+
+.row2 {
+	height: 300px;
+  	width: 33.33%;
+  	display: inline-block;
+}
+
+.r1b1 {
+	background-color: green;
+	border-right: 1px solid black;
+}
+
+.r1b2 {
+	background-color: blue;
+}
+
+.r2b1 {
+	background-color: grey;
+	border-right: 1px solid black;
+}
+
+.r2b2 {
+	background-color: black;
+	border-right: 1px solid black;
+}
+
+.r2b3 {
+	background-color: orange;
+}
